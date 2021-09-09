@@ -49,7 +49,11 @@ seq04
 
 ## References
 **SuperSloMo**: H. Jiang, D. Sun, V. Jampani, J. Kautz, et al. "Super slomo: High quality estimation of multiple intermediate frames for video interpolation". In IEEE. Int. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018.
+
 **SepConv**: S. Niklaus, L. Mai, and F. Liu. "Video frame interpolation via adaptive separable convolution". In IEEE Int. Conf. on Computer Vision (ICCV), 2017.
+
 **MEMC**: W. Bao, W. Lai, X. Zhang, M. Yang, et al. "Memc-net: Motion estimation and motion compensation driven neural network for video interpolation and enhancement". IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI),2019.
+
 **FeFlow**: S. Gui, C. Wang, Q. Chen, and D. Tao. "Featureflow: Robust video interpolation via structure-to-texture generation". In IEEE. Int. Conf. on Computer Vision and Pattern Recognition (CVPR), 2020
+
 **SMSP**: S. Niklaus and F. Liu. "Softmax splatting for video frame interpolation". In IEEE. Int. Conf. on Computer Vision and Pattern Recognition (CVPR), 2020.
