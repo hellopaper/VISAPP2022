@@ -38,6 +38,11 @@ The progressive residual refinement effects are visualized as follows:
 ## Additional results on Berkeley's dataset (up-convert video frame rate to 8X)
 Videos taken from Wang, T. C., Zhu, J. Y., Kalantari, N. K., Efros, A. A., & Ramamoorthi, R. (2017). Light field video capture using a learning-based hybrid imaging system. ACM Transactions on Graphics (TOG), 36(4), 1-13. We take the central views of all key frames.
 
+seq02
+![Seq02](configs/videos/seq02.gif)
 
+seq03
+![Seq03](configs/videos/seq03.gif)
 
-
+seq04
+![Seq04](configs/videos/seq04.gif)
